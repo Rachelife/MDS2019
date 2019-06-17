@@ -1,0 +1,22 @@
+Package: statsnba
+Title: statsnba package
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Lizhizi",
+           family = "Cui",
+           role = c("aut", "cre"),
+           email = "Lizhizi Cui <lc3268@columbia.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: statnba package contains three function name_year, oldest_year and cor_year.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports:
+  tibble,
+  dplyr,
+  tidyverse,
+  corrplot
+
+
+
