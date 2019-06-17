@@ -1,0 +1,14 @@
+---
+title: "Assignment 5"
+author: "LizhiziCui"
+date: "6/17/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+#### HW5: Create an R Package
+
+https://github.com/Rachelife/MDS2019/tree/Rachelife-patch-1/statsnba
+
